@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>ICP - Brasil</title>
+  <meta charset="UTF-8">
+  <title>IcpBrasil</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.36e4f1493a686e05296a.css"></head>
+<body>
+  <!-- <div class="alert-container">
+    <div class="alert-icon"><img src="assets/warning-triangle.svg" alt=""></div>
+    <div class="alert-text">
+      Aplicação em homologação.
+    </div>
+  </div> -->
+  <app-root></app-root>
+<script src="runtime-es2015.0dae8cbc97194c7caed4.js" type="module"></script><script src="runtime-es5.0dae8cbc97194c7caed4.js" nomodule defer></script><script src="polyfills-es5.9f6e27fc6aedb505e081.js" nomodule defer></script><script src="polyfills-es2015.09ee2f719bd21ab5c7b1.js" type="module"></script><script src="main-es2015.ffead9b3f14b05db5029.js" type="module"></script><script src="main-es5.ffead9b3f14b05db5029.js" nomodule defer></script></body>
+</html>
